@@ -1,5 +1,4 @@
 # Medix Twitter Module
-Mendix Twitter module.
 
 ## Description
 Module with a Twitter connector. Currently the module only implements the Standard Search API to search for tweets which can than be viewed in your Mendix app. It also automatically formats the mentions, hashtags and hyperlinks in the message.
