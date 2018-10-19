@@ -1,0 +1,10 @@
+﻿Buildfile: D:\Mendix\Twitter\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 45 files to D:\Mendix\Twitter\deployment
+     [copy] Copying 1 file to D:\Mendix\Twitter\deployment\model\lib\userlib
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+
