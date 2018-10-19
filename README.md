@@ -23,7 +23,7 @@ Search and show tweets in your Mendix application.
 Just add it to your project from the App Store.
 
 ## Configuration
-You need a Twitter developer account. Create an Twitter App and generate consumer key and access token for this app. You need this key and token in the configuration of the action. See here.
+You need a Twitter developer account. Create an Twitter App and generate consumer key and access token for this app. You need this key and token in the configuration of the action. See [here](https://developer.twitter.com/en/account/get-started).
 
 Drag and drop the Search Tweets action from the toolbox on your microflow and configure its settings.
 
