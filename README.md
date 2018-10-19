@@ -1,4 +1,4 @@
-# twitter-module
+# Medix Twitter Module
 Mendix Twitter module.
 
 ## Description
