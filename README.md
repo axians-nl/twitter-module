@@ -32,8 +32,8 @@ Drag and drop the Search Tweets action from the toolbox on your microflow and co
 | Consumer key secret |	Can be retrieved from your Twitter developer account.
 | Access token	      | Can be retrieved from your Twitter developer account.
 | Access token secret	| Can be retrieved from your Twitter developer account.
-| Result type	        | Optional. Specifies what type of search results you would prefer to receive. The current default is
-|                     | “mixed.” Valid values include:
+| Result type	        | Optional. Specifies what type of search results you would prefer to receive.
+|                     | The current default is: “mixed.” Valid values include:
 |                     | * mixed : Include both popular and real time results in the response.
 |                     | * recent : return only the most recent results in the response
 |                     | * popular : return only the most popular results in the response.
